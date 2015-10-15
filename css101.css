@@ -1,0 +1,12 @@
+/*The header element should have a 1px border. Color, you pick*/
+header {
+  border: 1px solid red;
+}
+
+ 
+/*  1. Convert the ul in the navigation element into a series of horizontal links with # as the href value, without a bullets, and have some space between them horizontally.
+  2. Ensure that the navigation is semantically marked as such (i.e. wrap it in the correct HTML tag)
+*/
+header ul {
+  color: red;
+}
